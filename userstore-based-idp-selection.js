@@ -1,4 +1,4 @@
-// Userstore based IDP selection on 2nd step
+// Userstore-based IDP selection on 2nd step
 // However, an authenticator is required to be in the 1st step to identify the userstore domain
 var onLoginRequest = function(context) {
     executeStep(1, {
