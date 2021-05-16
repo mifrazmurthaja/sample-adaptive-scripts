@@ -6,5 +6,5 @@
 4. [Role-based access control for applications](role-based-access-control.js)
 5. [Userstore-based access control for applications](userstore-based-access-control.js)
 6. [Userstore-based IDP selection on 2nd step](userstore-based-idp-selection.js)
-
+7. [IDP SubjectIdentifier-based access control for applications](subject-identifier-based-access-control.js)
 Refer [Adaptive Authentication JS API Reference](https://is.docs.wso2.com/en/latest/references/adaptive-authentication-js-api-reference) for more details.
